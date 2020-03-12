@@ -1,6 +1,6 @@
 # TryHackMe-juiceshop-Write-Up
 [WRITE-UP] TryHackMe! JuiceShop Rooms JuiceShop TryHackMe
-
+![alt text]https://i.imgur.com/JaX5W2u.png
 Credits to OWASP and Bjorn Kimminich
 
 
