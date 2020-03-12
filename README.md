@@ -1,4 +1,4 @@
-# TryHackMe-juiceshop-Write-Up-
+# TryHackMe-juiceshop-Write-Up
 [WRITE-UP] TryHackMe! JuiceShop Rooms JuiceShop TryHackMe
 
 Credits to OWASP and Bjorn Kimminich
