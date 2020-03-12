@@ -2,6 +2,7 @@
 [WRITE-UP] [TryHackMe!](https://tryhackme.com/room/juiceshop) JuiceShop Rooms JuiceShop TryHackMe
 ![alt text](https://i.imgur.com/JaX5W2u.png)
 Credits to OWASP and Bjorn Kimminich
+This machine uses the OWASP Juice Shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities. This room has been designed for beginners, but can be completed by anyone.
 
 
 
@@ -53,7 +54,7 @@ Task 6:
 1. From the hint, we should get access to see “terms of use” page.
 2. trying to access “about us” to get more information 
 3. seems there is some link on there, because of different text color 
-![alt text](https://i.ibb.co/4sctKsC/Screen-Shot-2020-03-12-at-17-50-17.jpg)
+![alt text](https://i.ibb.co/tZSKQZn/Screen-Shot-2020-03-12-at-17-50-17.jpg)
 4. see the link “/ftp” 
 5. its sound interesting to access! go on! 
 ![alt text](https://i.ibb.co/ZzHzGY7/Screen-Shot-2020-03-12-at-17-51-17.png)
