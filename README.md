@@ -20,9 +20,9 @@ Task 3: Walk through the application
 Task 4: Injection
 
     1. Trying insert single quote (') on login page, and you should get SQLi vuln
-![alt text](https://i.ibb.co/kQBnGTR/Screen-Shot-2020-03-12-at-17-15-34.png)
+    ![alt text](https://i.ibb.co/kQBnGTR/Screen-Shot-2020-03-12-at-17-15-34.png)
     2. Try SQLi : admin' or 1=1--
-![alt text](https://i.ibb.co/9qRjbQy/Screen-Shot-2020-03-12-at-17-19-57.png)
+    ![alt text](https://i.ibb.co/9qRjbQy/Screen-Shot-2020-03-12-at-17-19-57.png)
     3. In main page, tap f12 and open the network
     4. Filter to JS, and check all the JS files
     ![alt text](https://i.ibb.co/YtSvjYD/Screen-Shot-2020-03-12-at-17-17-33.jpg)
