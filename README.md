@@ -1,5 +1,5 @@
 # TryHackMe-juiceshop-Write-Up-
-[WRITE-UP] TryHackMe! - Juice Shop Rooms 
+[WRITE-UP] TryHackMe! JuiceShop Rooms 
 ![alt text](http://url/to/img.png)
 Juice Shop TryHackMe
 
