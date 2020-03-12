@@ -1,5 +1,5 @@
 # TryHackMe-juiceshop-Write-Up
-[WRITE-UP] TryHackMe! JuiceShop Rooms JuiceShop TryHackMe
+[WRITE-UP] [TryHackMe!](https://tryhackme.com/room/juiceshop) JuiceShop Rooms JuiceShop TryHackMe
 ![alt text](https://i.imgur.com/JaX5W2u.png)
 Credits to OWASP and Bjorn Kimminich
 
@@ -25,6 +25,7 @@ Task 4: Injection
 ![alt text](https://i.ibb.co/9qRjbQy/Screen-Shot-2020-03-12-at-17-19-57.png)
     3. In main page, tap f12 and open the network
     4. Filter to JS, and check all the JS files
+    ![alt text](https://i.ibb.co/YtSvjYD/Screen-Shot-2020-03-12-at-17-17-33.jpg)
     5. Search sensible directory for “admin” or something else
     6. Got the admin page and all the users
         email : admin@juice-sh.op
