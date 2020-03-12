@@ -1,6 +1,6 @@
 # TryHackMe-juiceshop-Write-Up-
 [WRITE-UP] TryHackMe! - Juice Shop Rooms 
-
+![alt text](http://url/to/img.png)
 Juice Shop TryHackMe
 
 Credits to OWASP and Bjorn Kimminich
@@ -37,8 +37,8 @@ Task 5: Broken Authentication
         password : jim@juice-sh.op' and 1=1--  
      
     2. open your burp, and find some sensible sign like “token” maybe?
-    3. check the token with token decoder!
-    4. found some password?
+    3. check the token with token decoder! (online tools could be an option)
+    4. found some hash password? (online tools could be an option)
     5. crack it!
 
     for the jim's eldest siblings middle name
