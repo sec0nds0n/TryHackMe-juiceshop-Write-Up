@@ -20,29 +20,26 @@ Task 3: Walk through the application
 
 Task 4: Injection
 
-    Trying insert single quote (') on login page, and you should get SQLi vuln
-    Try SQLi : admin' or 1=1--
-    In main page, tap f12 and open the network
-    Filter to JS, and check all the JS files
-    Search sensible directory for “admin” or something else
-    Got the admin page and all the users
+    1. Trying insert single quote (') on login page, and you should get SQLi vuln
+    2. Try SQLi : admin' or 1=1--
+    3. In main page, tap f12 and open the network
+    4. Filter to JS, and check all the JS files
+    5. Search sensible directory for “admin” or something else
+    6. Got the admin page and all the users
         email : admin@juice-sh.op
         domain : juice-sh.op
 
 Task 5: Broken Authentication
 
 
-      login with SQLi:
+    1. login with SQLi:
         email : jim@juice-sh.op' and 1=1--
         password : jim@juice-sh.op' and 1=1--  
      
-    open your burp, and find some sensible sign like “token” maybe?
-    check the token with token decoder!
-    found some password?
-    crack it!
-     
-
-
+    2. open your burp, and find some sensible sign like “token” maybe?
+    3. check the token with token decoder!
+    4. found some password?
+    5. crack it!
 
     for the jim's eldest siblings middle name
        1) i search “[password that you found] + jim” combination of name + password
