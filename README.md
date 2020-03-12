@@ -1,7 +1,5 @@
 # TryHackMe-juiceshop-Write-Up-
-[WRITE-UP] TryHackMe! JuiceShop Rooms 
-![alt text](http://url/to/img.png)
-Juice Shop TryHackMe
+[WRITE-UP] TryHackMe! JuiceShop Rooms JuiceShop TryHackMe
 
 Credits to OWASP and Bjorn Kimminich
 
