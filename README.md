@@ -2,6 +2,7 @@
 [WRITE-UP] [TryHackMe!](https://tryhackme.com/room/juiceshop) JuiceShop Rooms JuiceShop TryHackMe
 ![alt text](https://i.imgur.com/JaX5W2u.png)
 Credits to OWASP and Bjorn Kimminich
+-
 This machine uses the OWASP Juice Shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities. This room has been designed for beginners, but can be completed by anyone.
 
 
